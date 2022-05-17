@@ -1,2 +1,2 @@
 # 2-grupa-mareks-pavlovs-terraform-project
-Terraform projekts.
+Fourth homework. Using terraform modules, and AWS
